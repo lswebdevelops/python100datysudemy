@@ -6,6 +6,16 @@ files:
   - name: solution.py
     visible: true
     learner_created: false
-status: Unchecked
+  - name: bmi.py
+    visible: true
+    learner_created: true
+  - name: diagram
+    visible: true
+    learner_created: true
+  - name: diagram.png
+    visible: true
+    is_binary: true
+    learner_created: true
+status: Solved
 record: -1
 post_submission_on_open: true
