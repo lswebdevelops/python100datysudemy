@@ -9,9 +9,6 @@ files:
   - name: bmi.py
     visible: true
     learner_created: true
-  - name: diagram
-    visible: true
-    learner_created: true
   - name: diagram.png
     visible: true
     is_binary: true
